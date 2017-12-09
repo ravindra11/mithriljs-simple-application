@@ -16,3 +16,25 @@ Instructions:
 ```
 npm start
 ```
+
+Notes:
+
+* MithrilJs uses hyperscript (An alternative to JSX)
+
+Hyperscript Example:
+```
+    return m("main", [
+      m("h1", "Hello world"),
+    ])
+```
+
+JSX Example:
+```
+    return (
+      <main>
+        <h1>Hello world</h1>
+      </main>
+    )
+```
+
+
