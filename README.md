@@ -10,3 +10,8 @@ What is this?
 
 Requirements:
 * npm
+
+Instructions:
+```
+npm start
+```
